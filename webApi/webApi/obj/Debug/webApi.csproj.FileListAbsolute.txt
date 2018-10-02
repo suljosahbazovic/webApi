@@ -1,0 +1,211 @@
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\ApplicationInsights.config
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\webApi.dll.config
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\webApi.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\webApi.pdb
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\csc.exe
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\csc.exe.config
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\csc.rsp
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\csi.exe
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\csi.exe.config
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\csi.rsp
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.AppContext.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Console.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\vbc.exe
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\vbc.exe.config
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\vbc.rsp
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Antlr3.Runtime.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\EntityFramework.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\EntityFramework.SqlServer.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.AI.Web.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Newtonsoft.Json.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Net.Http.Formatting.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Helpers.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Http.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Http.WebHost.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Mvc.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Optimization.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Razor.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.WebPages.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\WebGrease.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\EntityFramework.xml
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\EntityFramework.SqlServer.xml
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Newtonsoft.Json.xml
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Net.Http.Formatting.xml
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Helpers.xml
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Http.xml
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Http.WebHost.xml
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Mvc.xml
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Optimization.xml
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Razor.xml
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.WebPages.xml
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Antlr3.Runtime.pdb
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.AI.Web.xml
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\obj\Debug\webApi.csprojAssemblyReference.cache
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\obj\Debug\webApi.csproj.CoreCompileInputs.cache
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\obj\Debug\webApi.csproj.CopyComplete
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\obj\Debug\webApi.dll
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\obj\Debug\webApi.pdb
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\ApplicationInsights.config
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\webApi.dll.config
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\webApi.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\webApi.pdb
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\csc.exe
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\csc.exe.config
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\csc.rsp
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\csi.exe
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\csi.exe.config
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\csi.rsp
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.AppContext.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Console.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\vbc.exe
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\vbc.exe.config
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\vbc.rsp
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Antlr3.Runtime.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\EntityFramework.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\EntityFramework.SqlServer.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.AI.Web.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.ApplicationInsights.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Newtonsoft.Json.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Net.Http.Formatting.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Helpers.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Http.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Http.WebHost.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Mvc.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Optimization.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Razor.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.WebPages.Deployment.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.WebPages.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.WebPages.Razor.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\WebGrease.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\EntityFramework.xml
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\EntityFramework.SqlServer.xml
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Newtonsoft.Json.xml
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Net.Http.Formatting.xml
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Helpers.xml
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Http.xml
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Http.WebHost.xml
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Mvc.xml
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Optimization.xml
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.Razor.xml
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.WebPages.xml
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.WebPages.Deployment.xml
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Web.WebPages.Razor.xml
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Antlr3.Runtime.pdb
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.AI.Web.xml
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\obj\Debug\webApi.csprojAssemblyReference.cache
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\obj\Debug\webApi.csproj.CoreCompileInputs.cache
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\obj\Debug\webApi.csproj.CopyComplete
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\obj\Debug\webApi.dll
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\obj\Debug\webApi.pdb
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\obj\Debug\webApi.Migrations.Initial.resources
+C:\Users\suljos\Documents\Visual Studio 2017\Projects\webApi\webApi\obj\Debug\webApi.csproj.GenerateResource.cache
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\obj\Debug\webApi.Migrations.Initial.resources
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\obj\Debug\webApi.csproj.GenerateResource.cache
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\obj\Debug\webApi.Migrations.UpdateModels.resources
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\obj\Debug\webApi.Migrations.UpdateModelsData.resources
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\obj\Debug\webApi.Migrations.UpdateModelsDataAgain.resources
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\obj\Debug\webApi.Migrations.UpdateTagModels.resources
+C:\Users\DT User\Documents\Visual Studio 2017\Projects\webApi\webApi\obj\Debug\webApi.Migrations.UpdateTagModelsAgain.resources
